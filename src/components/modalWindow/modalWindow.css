@@ -1,0 +1,10 @@
+.modal {
+    position: absolute;
+    width: 300px;
+    padding: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    left: calc(50% - 150px);
+    background-color: #666;
+    box-shadow: 0 0 0 2000px rgba(000, 000, 000, .8);
+}

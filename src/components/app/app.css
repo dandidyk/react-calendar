@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background-color: #333;
+
+}
+
+#root {
+    background-color: #333;
+    display: flex;
+}
+
+.app {
+    padding: 20px;
+    max-width: 780px;
+    margin: auto;
+}
